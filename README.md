@@ -1,1 +1,2 @@
-gRhalf 1
+Rhalf 1
+rhalf 33
